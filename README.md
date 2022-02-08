@@ -1,11 +1,9 @@
-FFT-Python
+FFT-Python example
 ==========
-
-FFT Examples in Python
 
 This tutorial covers step by step, how to perform a Fast Fourier Transform with Python.
 
-![FFT](https://raw.githubusercontent.com/balzer82/FFT-Python/master/FFT.png)
+![FFT](https://github.com/GreatYoungShaw/FFT-in-Python/blob/main/FFT.png)
 
 Including
 
@@ -13,14 +11,14 @@ Including
 * Leakage Effect
 * Windowing
 
-### [Take a look at the IPython Notebook](http://nbviewer.ipython.org/github/balzer82/FFT-Python/blob/master/FFT-Tutorial.ipynb)
+### [Take a look at the IPython Notebook](https://hub.gke2.mybinder.org/user/jupyterlab-jupyterlab-demo-3w8gupdw/lab/tree/demo/FFT-Tutorial.ipynb)
 
 #### Real World Data Example
 
 From
 
-![Vertical Netload Germany 2013](https://raw.githubusercontent.com/balzer82/FFT-Python/master/VerticalGridLoadGermany2013.png)
+![Vertical Netload Germany 2013](https://github.com/GreatYoungShaw/FFT-in-Python/blob/main/VerticalGridLoadGermany2013.png)
 
 To
 
-![Periods in NetLoad](https://raw.githubusercontent.com/balzer82/FFT-Python/master/VerticalGridLoadGermany2013-FFT.png)
+![Periods in NetLoad](https://github.com/GreatYoungShaw/FFT-in-Python/blob/main/VerticalGridLoadGermany2013-FFT.png)
